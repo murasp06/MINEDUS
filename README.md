@@ -1,4 +1,4 @@
-# MINEDUS
+# MINEDU'S
 especie de foro para instituciones educativas
 
 El objetivo principal es hacer que los estudiantes tengan un espacio por el cual puedan publicar cosas con las que se sientan a gusto,
